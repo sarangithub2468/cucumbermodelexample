@@ -11,7 +11,7 @@ public class Break {
 	 if(i==9) {
 		 continue;
 	 }
-	 System.out.println(i + "");
+	 System.out.println(i + " ");
 
  }
 	}
